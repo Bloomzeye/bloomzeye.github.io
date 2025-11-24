@@ -1,17 +1,8 @@
-<!-- start custom head snippets -->
+To do:
 
-<!-- insert favicons. use http://realfavicongenerator.net/ -->
-<!-- <link rel="icon" type="image/x-icon" href="/images/avatars/bloomzPixelAvatar.png"> -->
-
-<link rel="icon" type="image/png" href="/images/favicon-bloomz/favicon-96x96.png" sizes="96x96" />
-<link rel="icon" type="image/svg+xml" href="/images/favicon-bloomz/favicon.svg" />
-<link rel="shortcut icon" href="/images/favicon-bloomz/favicon.ico" />
-<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon-bloomz/apple-touch-icon.png" />
-<meta name="apple-mobile-web-app-title" content="Bloomzeye" />
-<link rel="manifest" href="/images/favicon-bloomz/bloomzPixelAvatar.png/site.webmanifest" />
-
-
-<!-- end custom head snippets -->
+- add images to posts
+- correct "pinned post" so it only shows in the main post page
+- 
 
 
 <!-- Pinned Posts Section -->
