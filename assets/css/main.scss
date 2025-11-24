@@ -1,0 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple"; 
+
+@font-face {
+    font-family: "Bubbly_Bold.ttf";
+    src: url("/assets/fonts/Bubbly_Bold.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
