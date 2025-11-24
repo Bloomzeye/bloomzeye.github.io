@@ -7,7 +7,7 @@ title: "blog coming soon...ish!"
 categories: annoucement
 tags: annoucement pinned
 permalink: /coming-soon/
-# pinnedImg: /blog/assets\images\backgrounds\cloudsBG.png
+# pinnedImg: /assets\images\backgrounds\cloudsBG.png
 # pinnedImgAlt: "pixel art cloud background"
 excerpt: "I learned Jekyll, a static site builder, after seeing (1) video one it...and have proceeded to spend about 2 weeks learning how to code my own blog from it. #justAuDHDthings"
 ---
