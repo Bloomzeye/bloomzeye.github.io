@@ -37,7 +37,7 @@
   //     }
   //   }
 
-.pageBanner{
+#pageBanner1 {
   background-color: #9dc8f5;
   font-weight: bold;
   font-style: italic; 
@@ -46,6 +46,19 @@
   align-content: center;
   padding: 5px;
 }
+
+#pageBanner2 {
+  background-color: #fff;
+  // font-weight: bold;
+  font-style: italic; 
+  font-size: 0.75rem;
+  text-align: center;
+  align-content: center;
+  padding: 5px;
+  border-bottom: 1px solid #000;
+}
+
+
 
   .posts .pinned {
     border: 5px dotted #ff8181;

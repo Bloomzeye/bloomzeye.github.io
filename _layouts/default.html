@@ -9,7 +9,11 @@
   {% include head.html %}
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
-    <div class="pageBanner">Free Palestine - Free Sudan - Free Congo - Stop Cop Cities Everywhere - Covid Justice</div>
+    <div id="pageBanner1">Free Palestine - Free Sudan - Free Congo - Stop Cop Cities Everywhere - Covid Justice</div>
+    <div id="pageBanner2">
+      <a href="https://www.gofundme.com/f/support-kifah-and-her-children-in-gaza-crisis">Support Kifah's GoFundme link</a> ~
+      <a href="https://www.gofundme.com/f/help-tahrir-and-her-family">Support Tahrir's GoFundme link</a>
+    </div>
 
     {% include masthead.html %}    
     
