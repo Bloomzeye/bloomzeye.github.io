@@ -1,0 +1,20 @@
+# Authors - these are the references in the blog posts, of what I want to show in the sidebar
+
+Bloomzeye:
+  name: Bloomzeye
+  picture: assets\images\animated\bloomzeye\GIF V2 - ave-sprite - V2.gif
+  bluesky: "@bloomzeye"
+  portfolio: https://bloomzeye.nekoweb.org/
+  my-games: https://bloomzeye.itch.io/
+  links:
+  - title: Bluesky
+    url: https://bsky.app/profile/bloomzeye.bsky.social
+    icon: fa fa-bug
+  - title: Portfolio
+    url: https://bloomzeye.nekoweb.org/
+    icon: fas fa-paint-brush
+  - title: My Games
+    url: https://bloomzeye.itch.io/
+    icon: fas fa-gamepad
+
+ 
