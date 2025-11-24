@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   planting game dev blogs, growing art, harvesting creative writings, and gathering future dev-interviews!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bloomzeye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-logo: ../images/animated/bloomzeye/GIF V2 - ave-sprite - V2.gif
+logo: ./images\animated\bloomzeye\bloomzPixelAvatar.gif
 bluesky:
   username: bloomzeye
 
@@ -55,7 +55,7 @@ plugins:
 # Site Author
 author:
   name: Bloomzeye
-  picture: images\animated\bloomzeye\GIF V2 - ave-sprite - V2.gif
+  picture: ./images\animated\bloomzeye\bloomzPixelAvatar.gif
   bluesky: bloomzeye
   links:
     - title: bluesky
