@@ -1,13 +1,13 @@
 ---
 title: "blog coming soon...ish!"
 # image: 
-#   path: assets\images\backgrounds\cloudsBG.png
-#   thumbnail: assets\images\backgrounds\cloudsBG.png
+#   path: \images\backgrounds\cloudsBG.png
+#   thumbnail: \images\backgrounds\cloudsBG.png
 #   caption: "pixel art cloud background"
 categories: annoucement
 tags: annoucement pinned
 permalink: /coming-soon/
-# pinnedImg: /assets\images\backgrounds\cloudsBG.png
+# pinnedImg: /images\backgrounds\cloudsBG.png
 # pinnedImgAlt: "pixel art cloud background"
 excerpt: "I learned Jekyll, a static site builder, after seeing (1) video one it...and have proceeded to spend about 2 weeks learning how to code my own blog from it. #justAuDHDthings"
 ---
