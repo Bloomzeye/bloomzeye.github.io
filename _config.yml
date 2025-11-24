@@ -26,6 +26,13 @@ url: "https://bloomzeye.github.io" # the base hostname & protocol for your site,
 logo: ../images/animated/bloomzeye/bloomzPixelAvatar.gif
 bluesky:
   username: bloomzeye
+  google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+  - name: "Quicksand"
+    weights: "300, 400, 500, 600, 700"
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
