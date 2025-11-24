@@ -1,5 +1,5 @@
 ---
-title: Journal Entires
+title: blog
 layout: posts
 permalink: /posts/
 show_excerpts: true

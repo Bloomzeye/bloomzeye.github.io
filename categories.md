@@ -1,5 +1,5 @@
 ---
-title: filter by category
+title: category
 layout: categories
 permalink: /categories/
 show_excerpts: true

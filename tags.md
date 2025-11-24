@@ -1,5 +1,5 @@
 ---
-title: filter by tags
+title: tags
 layout: tags
 permalink: /tags/
 show_excerpts: true
