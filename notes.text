@@ -2,7 +2,7 @@ To do:
 
 - add images to posts
 - correct "pinned post" so it only shows in the main post page
-- 
+- pagintion in index.html - not sure if this is working right now, since I only have 1 posts. Will need to come back later to check the code, when making more posts
 
 
 <!-- Pinned Posts Section -->
