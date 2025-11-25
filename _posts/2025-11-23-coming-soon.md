@@ -24,13 +24,7 @@ Oh, and spelling errors, since I can't seem to bring myself to use a spellchecke
 
 Thanks for being here, and check back within another 2 weeks once my brain settles down!
 <hr>
-<h3 class="aboutSubHeader">find me on the interwbs!</h3>
-<ul class="links" style="list-style: none;">
-    <li><i class='fas fa-bug'></i> <a href="https://bsky.app/profile/bloomzeye.bsky.social">bluesky</a></li>
-    <li><i class='fas fa-paint-brush'></i> <a href="https://bloomzeye.nekoweb.org/">portfolio website</a> - (eventually, I'll transfer my portfolio to my blog here!)</li>
-    <li><i class='fas fa-gamepad'></i> <a href="https://bloomzeye.itch.io/">my games on itch.io</a></li>
-    <li><i class='fas fa-moon'></i> <a href="https://www.pillowfort.social/bloomzeye">pillowfort</a></li>
-    <li><i class='fab fa-tumblr'></i> <a href="https://bloomzeye.tumblr.com/">tumblr</a></li>
-    <li><i class='fab fa-youtube'></i> <a href="https://www.youtube.com/@bloomzeyestudio">youtube</a></li>
-</ul>
+
+{% include interwebs.html %}
+
 

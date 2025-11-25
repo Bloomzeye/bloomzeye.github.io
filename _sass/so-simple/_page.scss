@@ -250,6 +250,10 @@
 
 .page-taxonomy {
   display: inline;
+  background-color: #ff685452;
+  border-radius: 17px;
+  margin-right: 5px;
+  padding: 5px;
 
   &:not(:last-child)::after {
     content: ", ";
@@ -424,5 +428,7 @@
 // .aboutBMC img{
 //   width: 30%;
 // }
+
+
 
 
