@@ -19,5 +19,7 @@
 - title: Art Portfolio   
   url: https://bloomzeye.nekoweb.org/
   # the plain url links open in the same window - need to figure out how to add blank targets
+- title: Explore
+  url: /explore/
 # - title: Site Buttons
   # url: /extra/site-buttons/
