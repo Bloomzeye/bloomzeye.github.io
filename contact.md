@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Contat
+excerpt: "Contact page for Bloomzeye's Writing Garden blog"
+show_excerpts: true
 permalink: /about/contact/
 ---
 
