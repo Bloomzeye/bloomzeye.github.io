@@ -2,7 +2,7 @@
   {% include footer-custom.html %}
 
   {%- if site.footer_links -%}
-    <div class="social-icons">
+    <div class="social-icons" id="social-links">
       {%- for footer_link in site.footer_links -%}
         {%- if footer_link.url contains "://" -%}
           {%- assign url = footer_link.url -%}

@@ -14,7 +14,7 @@ excerpt: "Here's how I made a game, Watermelon Match, as an art response to the 
 
 ![Alt text: Game cover image for Watermelon Match.](\images\blog-headers\watermelon-match\itchIoCover-watermelon.jpg)
 
-As an art response to the Global Day of Ceasefire for Palestine, on December 11th, 2023, I made a game called *Watermelon Match.* 
+As an art response to the Global Day of Ceasefire for Palestine, on December 11th, 2023, I made a game called [Watermelon Match](https://bloomzeye.itch.io/watermelon-match), as a free browser game on itch.io.
 
 I've talked and learned about Palestine in many of my creative mediums; clay, zines, crochet, sewing, digital art, writing, and more. 
 

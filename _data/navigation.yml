@@ -2,24 +2,24 @@
 
 - title: Posts
   url: /posts/
-# - title: Categories
-  # url: /categories/
-- title: Tags
-  url: /tags/
+- title: Categories
+  url: /categories/
+# - title: Tags
+#   url: /tags/
 # - title: Recipes
 #   url: /recipes/
 # - title: Image Maps
 #   url: /image-maps/
-- title: Search
-  url: /search/
 - title: About
   url: /about/
+- title: Search
+  url: /search/
 - title: My indie games!
   url: https://bloomzeye.itch.io/
 - title: Art Portfolio   
   url: https://bloomzeye.nekoweb.org/
   # the plain url links open in the same window - need to figure out how to add blank targets
-- title: Explore
+- title: Explore the interwebs
   url: /explore/
 # - title: Site Buttons
   # url: /extra/site-buttons/
