@@ -112,7 +112,7 @@ Thank you for reading my blog post, and double-thanks if you’ve shared it with
 
 ---
 
-### 🍉 My dear friend Besan’s family GoFundMe’s
+**🍉 My dear friend Besan family's GoFundMes**
 
 Support Hossam's GoFundMe  [link](https://www.gofundme.com/f/jqjcbd-help-hossam-and-his-family-survive-and-rebuild)
 Support Kifah's GoFundMe [link](https://www.gofundme.com/f/support-kifah-and-her-children-in-gaza-crisis)
