@@ -16,10 +16,11 @@ body {
 }
 
 a {
-  color: $accent-color;
+  color: $accent-color; 
 
   &:hover {
     color: shade($accent-color, 25%);
+    font-weight: bold;
   }
 }
 
