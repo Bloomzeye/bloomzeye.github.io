@@ -16,7 +16,7 @@ excerpt: "Here's how I made a game, Watermelon Match, as an art response to the 
 
 ![Image description: Game cover image for Watermelon Match, consiting of a set of three pixel art watermelons; one whole, half, and quarter-sliced, against a pixel keffiyeh background pattern.](\images\blog-headers\watermelon-match\itchIoCover-watermelon.jpg)
 
-As an art response to the Global Day of Ceasefire for Palestine back in December 11th, 2023, I made a game called [Watermelon Match](https://bloomzeye.itch.io/watermelon-match). It’s a free browser game that you can play on itch.io!
+As an art response to the Global Day of Ceasefire for Palestine back in December 11th, 2023, I made a game called [Watermelon Match](https://bloomzeye.itch.io/watermelon-match). It’s a free browser game that you can play on itch.io now!
 
 I've talked about Palestine in most of my creative mediums; clay, zines, crochet, sewing, digital art, writing, and whatever else my perpetually chipped nails can get their hands on. 
 
@@ -30,7 +30,7 @@ Eventually, I realized that I could use art research to guide my design process 
 
 ### My design and research process
 
-My game and story ideas tend to grow either from a sketch, doodle, sentence, or daydream. 
+My game and story ideas tend to grow from a sketch, doodle, sentence, or daydream. 
 
 Collecting references for inspiration, using stock photo websites, thrifted books, libraries, videos, internet archives, talking and listening to others, and even my own photos, is all apart of my game design process.
 
@@ -42,11 +42,11 @@ When I take time to slow down and build a foundation for my visuals and designs,
 
 ### My pixel art process
 
-I pretty much went straight into Aseprite; a pixel art program that I've been using since my start in game development. It's a one-time buy, but it's been so worth it for me.
+I pretty much went straight into Aseprite; a pixel art program that I've been using since my start in game development. It's a one-time buy, and it was worth it.
 
 ![Image description: Aart watermelons; one whole, half, and quarter-sliced, next to a pixel pattern of the keffiyeh, with a thin green border around the art.](\images\blog-headers\watermelon-match\watermelonPixels2.webp)
 
-Since I only had a watermelon, the keffiyeh as a background pattern, and a simple heart for my particle effects, I was ready for programming within a few hours. 
+Since I only had a watermelon, the keffiyeh as a background pattern, and a simple heart for my particle effects, my art process propably wasn't more than an hour.
 
 I tend to stick within 36px by 96px for my pixel art, but I've dabbled in the 160px and higher range for some experimental illustrations and animations.
 
@@ -62,7 +62,7 @@ With the art completed, it was time to jump into a game engine to put it all tog
 
 ### Using a game engine - putting it all together!
 
-I wanted to enjoy the game development process, but didn't want to continue painfully struggle through computer programming languages. I did try to continue learning C# for Unity, where I made my first game, [Bubble Bumble](https://bloomzeye.itch.io/bubble-bumble) back in 2021, and even checked out the Godot engine. But, I wanted something even simpler and straight-forward.
+I wanted to enjoy the game development process, but didn't want to continue painfully struggle through computer programming languages. I did try to continue learning C# for Unity, where I made my first game [Bubble Bumble](https://bloomzeye.itch.io/bubble-bumble) back in 2021, and even checked out the Godot engine. But, I wanted something even simpler and straight-forward.
 
 Then, I came across visual scripting game engines.
 
