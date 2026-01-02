@@ -155,7 +155,9 @@ For a few weeks now, I've been exploring Interactive Fiction and Visual Novel en
 
 You can keep up with my super irregular posting updates and rambles on [Bluesky](https://bsky.app/profile/bloomzeye.bsky.social) and [Pillowfort](https://www.pillowfort.social/bloomzeye). If the links don't work, just search up "Bloomzeye"!
 
-Thank you for reading my blog post, and double thanks if you’ve shared it with anyone!
+You can also buy me a "boba drink", on my [Buy Me a Coffee page](https://www.buymeacoffee.com/bloomzeye)! You can support me with your coins one time, or sign up for a monthly membership where I share early access games, art, animations, blog posts, and writings.
+
+Thank you for reading my blog post, and double thanks if you’ve shared it with anyone.
 
 With creativity and passion,
 
