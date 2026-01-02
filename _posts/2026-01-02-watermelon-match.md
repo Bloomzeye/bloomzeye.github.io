@@ -1,9 +1,9 @@
 ---
 title: "How I made my game: Watermelon Match!"
 image: 
-  path: images\blog-headers\watermelon-match\titleHeader-watermelonMatch.webp
-  thumbnail: images\blog-headers\watermelon-match\titleHeader-watermelonMatch.webp
-#   caption: "post header titled: 'how I made my game, Watermelon Match' by bloomzeye"
+  path: images/blog-headers/watermelon-match/titleHeader-watermelonMatch.webp
+  thumbnail: images/blog-headers/watermelon-match/titleHeader-watermelonMatch.webp
+  caption: "post header titled: 'how I made my game, Watermelon Match' by bloomzeye"
 categories: devlog
 tags: pinned 
 permalink: /how-I-made-watermelon-match/
