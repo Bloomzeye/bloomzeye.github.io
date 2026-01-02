@@ -5,7 +5,7 @@ title: "blog coming soon...ish!"
 #   thumbnail: \images\backgrounds\cloudsBG.png
 #   caption: "pixel art cloud background"
 categories: annoucement
-tags: pinned
+# tags:
 permalink: /coming-soon/
 # pinnedImg: /images\backgrounds\cloudsBG.png
 # pinnedImgAlt: "pixel art cloud background"
