@@ -184,7 +184,8 @@
   .read-time {
     font-family: $meta-font-family;
     font-style: italic;
-    white-space: nowrap;
+    // white-space: nowrap;
+    white-space: wrap;
   }
 
   .read-time {
@@ -202,6 +203,12 @@
       padding: 0;
     }
   }
+}
+
+.page-sidebar-content{
+  border: 3px solid #ffcec8;
+  padding: 10px;
+  border-radius: 25px;
 }
 
 .page-author {
@@ -222,7 +229,7 @@
 .page-taxonomies-title {
   display: inline;
   padding-right: 0.5em;
-  font-size: 1rem;
+  font-size: 0.75rem;
   font-weight: normal;
   text-transform: uppercase;
 
