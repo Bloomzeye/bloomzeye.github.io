@@ -105,6 +105,9 @@ author:
     - title: youtube
       url: https://www.youtube.com/@bloomzeyestudio
       icon: fab fa-youtube
+    - title: Buy Me A Coffee
+      url: https://www.buymeacoffee.com/bloomzeye
+      icon: fa fa-heart
 
 # Footer Links
 footer_links:
@@ -126,6 +129,9 @@ footer_links:
   - title: youtube
     url: https://www.youtube.com/@bloomzeyestudio
     icon: fab fa-youtube
+  - title: Buy Me A Coffee
+    url: https://www.buymeacoffee.com/bloomzeye
+    icon: fa fa-heart
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
