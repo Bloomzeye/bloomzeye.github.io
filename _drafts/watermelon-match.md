@@ -12,7 +12,7 @@ excerpt: "Here's how I made a game, Watermelon Match, as an art response to the 
 
 {% include toc %}
 
-## An art response
+## Creating an art response!
 
 ![Image description: Game cover image for Watermelon Match, consiting of a set of three pixel art watermelons; one whole, half, and quarter-sliced, against a pixel keffiyeh background pattern.](\images\blog-headers\watermelon-match\itchIoCover-watermelon.jpg)
 
@@ -28,7 +28,7 @@ Eventually, I realized that I could use art research to guide my design process 
 
 ![Image description: A title header reads: "My design research process", written in a black, bubbly pixel art font. There's a watermelon patterned decorative top-border, and a thin green border arond the entire title header.](\images\blog-headers\watermelon-match\researchHeader.webp)
 
-### My design research process
+### My design and research process
 
 My game and story ideas tend to grow either from a sketch, doodle, sentence, or daydream. 
 
@@ -40,7 +40,7 @@ When I take time to slow down and build a foundation for my visuals and designs,
 
 ![Image description: A title header reads: "My art process", written in a black, bubbly pixel art font. There's a watermelon patterned decorative top-border, and a thin green border around the entire title header.](\images\blog-headers\watermelon-match\artHeader.webp)
 
-### My art process
+### My pixel art process
 
 I pretty much went straight into Aseprite; a pixel art program that I've been using since my start in game development. It's a one-time buy, but it's been so worth it for me.
 
@@ -56,11 +56,11 @@ I probably could have figured out another solution, but time was my main conside
 
 With the art completed, it was time to jump into a game engine to put it all together!
 
-## Making the game
+## Making the game 
 
 ![Image description: A title header reads: "Using a game engine", written in a black, bubbly pixel art font. There's a watermelon patterned decorative top-border, and a thin green border around the entire title header.](\images\blog-headers\watermelon-match\engineHeader.webp)
 
-### Using a game engine
+### Using a game engine - putting it all together!
 
 I wanted to enjoy the game development process, but didn't want to continue painfully struggle through computer programming languages. I did try to continue learning C# for Unity, where I made my first game, [Bubble Bumble](https://bloomzeye.itch.io/bubble-bumble) back in 2021, and even checked out the Godot engine. But, I wanted something even simpler and straight-forward.
 

@@ -83,6 +83,7 @@ tag_archive_path: "/tags/#"
 # Site Author
 author:
   name: Bloomzeye
+  pronouns: They/Them/Theirs
   picture: ../images/animated/bloomzeye/bloomzPixelAvatar.gif
   bluesky: bloomzeye
   links:

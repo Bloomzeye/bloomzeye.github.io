@@ -23,6 +23,14 @@
   }
 }
 
+.author-pronouns {
+  font-size: 0.75rem;
+  margin-bottom:5px;
+  @include breakpoint($large) {
+    margin-bottom: 0.5em;
+  }
+}
+
 .author-links {
   display: none;
   margin: 0 0 1.5em;
@@ -35,7 +43,7 @@
 }
 
 .author-link {
-  display: inline;
+  // display: inline;
   padding-right: 0.5em;
 
   @include breakpoint($large) {
