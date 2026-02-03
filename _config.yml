@@ -22,7 +22,8 @@ title: Bloomzeye's Writing Garden
 description: >- # this means to ignore newlines until "baseurl:"
   planting game dev blogs, growing art, harvesting creative writings, and gathering future dev-interviews!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bloomzeye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://bloomzeye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bloomzeyestudio.com"
 logo: ../images/animated/bloomzeye/bloomzPixelAvatar.gif
 bluesky:
   username: bloomzeye
@@ -105,7 +106,7 @@ author:
     - title: youtube
       url: https://www.youtube.com/@bloomzeyestudio
       icon: fab fa-youtube
-    - title: Buy Me A Coffee
+    - title: Buy Me a Coffee
       url: https://www.buymeacoffee.com/bloomzeye
       icon: fa fa-heart
 
