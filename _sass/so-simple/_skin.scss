@@ -85,11 +85,10 @@ blockquote {
   }
 
   a {
-    // color: $nav-color;
     color: $text-color;
-    // border-color: $nav-background-color;
     border-color: $accent-color;
-    background-color: $nav-background-color; 
+    // background-color: $nav-background-color; 
+    background-color: #eee;
     font-family: $sans-serif-font-family;
     font-weight: bold;
     margin: 0 5px 0 5px;
@@ -150,7 +149,8 @@ blockquote {
 }
 
 #menu-toggle {
-  background-color: $nav-background-color;
+  // background-color: $nav-background-color;
+  background-color: #eee;
 }
 
 #markdown-toc {
