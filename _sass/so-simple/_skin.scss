@@ -25,8 +25,11 @@ a {
 }
 
 blockquote {
-  background-color: mix($background-color, $accent-color, 90%);
-  border-left-color: $accent-color;
+  // background-color: mix($background-color, $accent-color, 90%);
+  // border-left-color: $accent-color;
+  background-color: #ffcec8;
+  border-left-color: #ff6854;
+  border-radius: 15px;
 }
 
 /* ==========================================================================
